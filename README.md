@@ -15,8 +15,8 @@
 ✅ **AI 기반 스마트 알림 시스템**  
 
 <p align="center">
-  <img src="1.png" width="400" height="600">
-  <img src="2.png" width="400" height="600">
+  <img src="1.png" width="400" height="500">
+  <img src="2.png" width="400" height="500">
 </p>
 
 
@@ -30,20 +30,28 @@
 | **최혜정** | 컴퓨터공학 | 22112339 | 화분 동작 센서 구현 |
 
 ## 📅 프로젝트 일정
-![프로젝트 일정](schedule_a.png)
+<p align="center">
+  <img src="schedule_a.png" width="400">
+</p>
 
 ## 🔧 **센서 및 하드웨어 구현**
-- **초음파 센서 구현**: 거리 측정을 통해 식물 성장 상태 확인  
-  ![초음파 센서](4.png)
+### 🔹 **초음파 센서 구현**
+<p align="center">
+  <img src="4.png" width="300">
+</p>
 
-- **LED 센서 구현**: 조도 감지 및 환경 조절 시스템  
-  ![LED 센서](5.png)
+### 🔹 **LED 센서 구현**
+<p align="center">
+  <img src="5.png" width="300">
+</p>
 
-- **LCD & 부저 구현**: 실시간 데이터 표시 및 경고음 알림  
-  ![LCD & 부저](6.png)
+### 🔹 **LCD & 부저 구현**
+<p align="center">
+  <img src="6.png" width="300">
+</p>
 
 ## 💼 **비즈니스 모델**
-- 고객 타겟: 식물을 키우는 데 어려움을 겪는 사람들  
-- 핵심 가치: 자동화된 환경 관리, AI 기반 스마트 알림  
+<p align="center">
+  <img src="bmc.png" width="400">
+</p>
 
-![비즈니스 모델](bmc.png)
