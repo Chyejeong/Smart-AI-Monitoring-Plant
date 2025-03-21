@@ -14,7 +14,7 @@
 ✅ **데이터 시각화 (LCD 디스플레이 지원)**  
 ✅ **AI 기반 스마트 알림 시스템**  
 
-<p align="center">
+<p align="left">
   <img src="1.png" width="400" height="500">
   <img src="2.png" width="400" height="500">
 </p>
@@ -30,28 +30,32 @@
 | **최혜정** | 컴퓨터공학 | 22112339 | 화분 동작 센서 구현 |
 
 ## 📅 프로젝트 일정
-<p align="center">
+<p align="left">
   <img src="schedule_a.png" width="400">
 </p>
 
 ## 🔧 **센서 및 하드웨어 구현**
 ### 🔹 **초음파 센서 구현**
-<p align="center">
-  <img src="4.png" width="300">
-</p>
+<div align="left">
+  <img src="4.png" width="500">
+  <p>초음파 센서 구현</p>
+</div>
 
 ### 🔹 **LED 센서 구현**
-<p align="center">
+<div align="left">
   <img src="5.png" width="300">
-</p>
+  <p>LED 센서 구현</p>
+</div>
 
 ### 🔹 **LCD & 부저 구현**
-<p align="center">
+<div align="left">
   <img src="6.png" width="300">
-</p>
+  <p>LCD & 부저 구현</p>
+</div>
+
 
 ## 💼 **비즈니스 모델**
-<p align="center">
-  <img src="bmc.png" width="400">
+<p align="left">
+  <img src="bmc.png" width="500">
 </p>
 
