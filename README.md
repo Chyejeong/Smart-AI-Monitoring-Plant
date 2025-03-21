@@ -31,13 +31,13 @@
 
 ## 📅 프로젝트 일정
 <p align="left">
-  <img src="schedule_a.png" width="400">
+  <img src="schedule_a.png" width="500">
 </p>
 
 ## 🔧 **센서 및 하드웨어 구현**
 ### 🔹 **초음파 센서 구현**
 <div align="left">
-  <img src="4.png" width="500">
+  <img src="4.png" width="300">
   <p>초음파 센서 구현</p>
 </div>
 
@@ -55,6 +55,9 @@
 
 
 ## 💼 **비즈니스 모델**
+- 고객 타겟: 식물을 키우는 데 어려움을 겪는 사람들  
+- 핵심 가치: 자동화된 환경 관리, AI 기반 스마트 알림
+
 <p align="left">
   <img src="bmc.png" width="500">
 </p>
