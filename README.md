@@ -38,19 +38,16 @@
 ### 🔹 **초음파 센서 구현**
 <div align="left">
   <img src="4.png" width="300">
-  <p>초음파 센서 구현</p>
 </div>
 
 ### 🔹 **LED 센서 구현**
 <div align="left">
   <img src="5.png" width="300">
-  <p>LED 센서 구현</p>
 </div>
 
 ### 🔹 **LCD & 부저 구현**
 <div align="left">
   <img src="6.png" width="300">
-  <p>LCD & 부저 구현</p>
 </div>
 
 
