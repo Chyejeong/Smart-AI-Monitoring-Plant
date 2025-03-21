@@ -15,8 +15,8 @@
 ✅ **AI 기반 스마트 알림 시스템**  
 
 <p align="center">
-  <img src="1.png" width="400">
-  <img src="2.png" width="400">
+  <img src="1.png" width="400" height="600">
+  <img src="2.png" width="400" height="600">
 </p>
 
 
